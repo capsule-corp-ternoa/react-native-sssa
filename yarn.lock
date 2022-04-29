@@ -1085,11 +1085,11 @@ async-limiter@~1.0.0:
   integrity sha512-jp/uFnooOiO+L211eZOoSyzpOITMXx1rBITauYykG3BRYPu8h0UcxsPNB04RR5vo4Tyz3+ay17tR6JVf9qzYWg==
 
 async@^2.1.4, async@^2.4.0, async@^2.5.0:
-  version "2.6.1"
-  resolved "https://registry.yarnpkg.com/async/-/async-2.6.1.tgz#b245a23ca71930044ec53fa46aa00a3e87c6a610"
-  integrity sha512-fNEiL2+AZt6AlAw/29Cr0UDe4sRAHCpEHh54WMz+Bb7QfNcFw4h3loofyJpLeQs4Yx7yuqu/2dLgM5hKOs6HlQ==
+  version "2.6.4"
+  resolved "https://registry.yarnpkg.com/async/-/async-2.6.4.tgz#706b7ff6084664cd7eae713f6f965433b5504221"
+  integrity sha512-mzo5dfJYwAn29PeiJ0zvwTo04zj8HDJj0Mn8TD7sno7q12prdbnasKJHhkm2c1LgrhlJ0teaea8860oxi51mGA==
   dependencies:
-    lodash "^4.17.10"
+    lodash "^4.17.14"
 
 asynckit@^0.4.0:
   version "0.4.0"
@@ -4562,10 +4562,10 @@ lodash.throttle@^4.1.1:
   resolved "https://registry.yarnpkg.com/lodash.throttle/-/lodash.throttle-4.1.1.tgz#c23e91b710242ac70c37f1e1cda9274cc39bf2f4"
   integrity sha1-wj6RtxAkKscMN/HhzaknTMOb8vQ=
 
-lodash@4.x.x, lodash@^4.13.1, lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.3.0, lodash@^4.6.1:
-  version "4.17.11"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
-  integrity sha512-cQKh8igo5QUhZ7lg38DYWAxMvjSAKG0A8wGSVimP07SIUEK2UO+arSRKbRZWtelMtN5V0Hkwh5ryOto/SshYIg==
+lodash@4.x.x, lodash@^4.13.1, lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.14, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.3.0, lodash@^4.6.1:
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 loose-envify@^1.0.0, loose-envify@^1.1.0, loose-envify@^1.3.1:
   version "1.4.0"
@@ -5743,20 +5743,10 @@ react-devtools-core@^3.4.0:
     shell-quote "^1.6.1"
     ws "^3.3.1"
 
-react-native-aes-crypto@^1.3.1:
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/react-native-aes-crypto/-/react-native-aes-crypto-1.3.1.tgz#593c727da9d286a573172fc7f7a7fb39b6fdb14b"
-  integrity sha512-R0a/DqZ5vjlmaXz1t4JH88FyCWkQFti6LCwteYDiPoqAgapM/dMGGshaNjmUc8cwaDq9+v/hD8yWCpnQFotm9w==
-
-react-native-secure-storage@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/react-native-secure-storage/-/react-native-secure-storage-0.1.1.tgz#8216476d9237c1d5e0a62da339dae071a84e3e7e"
-  integrity sha512-d1LR02ueniNhyVkdR3wRth4IRF58K499vTOHNmmztE2uiYqtXdgHHbC3fm9j0q6Q7XSnjwp/nDgHazkmYWn/zA==
-
-react-native-securerandom@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/react-native-securerandom/-/react-native-securerandom-0.3.0.tgz#4b85c39eb1babc8cd662c7174d96eb149486fae1"
-  integrity sha512-Le2jxjt2NLseebfZANo3uf2nnyBvb7KrFqlhCoFFlQkovtJM9u+/e+tpzrS9TGmP116zkk/xJSxttZ5psaQ1pQ==
+react-native-securerandom@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-securerandom/-/react-native-securerandom-1.0.0.tgz#1cff2f727c90c9ec3318b42dbf825a628b53b49b"
+  integrity sha512-lnhcsWloFzMN/HffyDBlh4VlqdhDH8uxEzUIH3aJPgC1PxV6OKZkvAk409EwsAhcmG/z3yZuVKegKpUr5IM9ug==
   dependencies:
     base64-js "*"
 
