@@ -4947,9 +4947,9 @@ mkdirp@^0.5.0, mkdirp@^0.5.1, mkdirp@~0.5.1:
     minimist "0.0.8"
 
 moment@^2.10.6:
-  version "2.22.2"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.22.2.tgz#3c257f9839fc0e93ff53149632239eb90783ff66"
-  integrity sha1-PCV/mDn8DpP/UxSWMiOeuQeD/2Y=
+  version "2.29.4"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.4.tgz#3dbe052889fe7c1b2ed966fcb3a77328964ef108"
+  integrity sha512-5LC9SOxjSc2HF6vO2CyuTDNivEdoz2IvyJJGj6X8DJ0eFyfszE0QiEd+iXmBvUP3WHxSjFH/vIsA0EN00cgr8w==
 
 morgan@^1.9.0:
   version "1.9.1"
@@ -5743,20 +5743,10 @@ react-devtools-core@^3.4.0:
     shell-quote "^1.6.1"
     ws "^3.3.1"
 
-react-native-aes-crypto@^1.3.1:
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/react-native-aes-crypto/-/react-native-aes-crypto-1.3.1.tgz#593c727da9d286a573172fc7f7a7fb39b6fdb14b"
-  integrity sha512-R0a/DqZ5vjlmaXz1t4JH88FyCWkQFti6LCwteYDiPoqAgapM/dMGGshaNjmUc8cwaDq9+v/hD8yWCpnQFotm9w==
-
-react-native-secure-storage@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/react-native-secure-storage/-/react-native-secure-storage-0.1.1.tgz#8216476d9237c1d5e0a62da339dae071a84e3e7e"
-  integrity sha512-d1LR02ueniNhyVkdR3wRth4IRF58K499vTOHNmmztE2uiYqtXdgHHbC3fm9j0q6Q7XSnjwp/nDgHazkmYWn/zA==
-
-react-native-securerandom@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/react-native-securerandom/-/react-native-securerandom-0.3.0.tgz#4b85c39eb1babc8cd662c7174d96eb149486fae1"
-  integrity sha512-Le2jxjt2NLseebfZANo3uf2nnyBvb7KrFqlhCoFFlQkovtJM9u+/e+tpzrS9TGmP116zkk/xJSxttZ5psaQ1pQ==
+react-native-securerandom@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-securerandom/-/react-native-securerandom-1.0.0.tgz#1cff2f727c90c9ec3318b42dbf825a628b53b49b"
+  integrity sha512-lnhcsWloFzMN/HffyDBlh4VlqdhDH8uxEzUIH3aJPgC1PxV6OKZkvAk409EwsAhcmG/z3yZuVKegKpUr5IM9ug==
   dependencies:
     base64-js "*"
 
