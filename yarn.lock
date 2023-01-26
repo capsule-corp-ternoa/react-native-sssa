@@ -5743,20 +5743,10 @@ react-devtools-core@^3.4.0:
     shell-quote "^1.6.1"
     ws "^3.3.1"
 
-react-native-aes-crypto@^1.3.1:
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/react-native-aes-crypto/-/react-native-aes-crypto-1.3.1.tgz#593c727da9d286a573172fc7f7a7fb39b6fdb14b"
-  integrity sha512-R0a/DqZ5vjlmaXz1t4JH88FyCWkQFti6LCwteYDiPoqAgapM/dMGGshaNjmUc8cwaDq9+v/hD8yWCpnQFotm9w==
-
-react-native-secure-storage@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/react-native-secure-storage/-/react-native-secure-storage-0.1.1.tgz#8216476d9237c1d5e0a62da339dae071a84e3e7e"
-  integrity sha512-d1LR02ueniNhyVkdR3wRth4IRF58K499vTOHNmmztE2uiYqtXdgHHbC3fm9j0q6Q7XSnjwp/nDgHazkmYWn/zA==
-
-react-native-securerandom@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/react-native-securerandom/-/react-native-securerandom-0.3.0.tgz#4b85c39eb1babc8cd662c7174d96eb149486fae1"
-  integrity sha512-Le2jxjt2NLseebfZANo3uf2nnyBvb7KrFqlhCoFFlQkovtJM9u+/e+tpzrS9TGmP116zkk/xJSxttZ5psaQ1pQ==
+react-native-securerandom@^1.0.0:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/react-native-securerandom/-/react-native-securerandom-1.0.1.tgz#dc983cce980c80d1af62406e2ef2917ed0ada55f"
+  integrity sha512-ibuDnd3xi17HyD5CkilOXGPFpS9Z1oifjyHFwUl8NMzcQcpruM0ZX8ytr3A4rCeAsaBHjz69r78Xgd6vUswv1Q==
   dependencies:
     base64-js "*"
 
@@ -6871,9 +6861,9 @@ typedarray@^0.0.6:
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
 ua-parser-js@^0.7.18:
-  version "0.7.19"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.19.tgz#94151be4c0a7fb1d001af7022fdaca4642659e4b"
-  integrity sha512-T3PVJ6uz8i0HzPxOF9SWzWAlfN/DavlpQqepn22xgve/5QecC+XMCAtmUNnY7C9StehaV6exjUCI801lOI7QlQ==
+  version "0.7.33"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.33.tgz#1d04acb4ccef9293df6f70f2c3d22f3030d8b532"
+  integrity sha512-s8ax/CeZdK9R/56Sui0WM6y9OFREJarMRHqLB2EwkovemBxNQ+Bqu8GAsUnVcXKgphb++ghr/B2BZx4mahujPw==
 
 uglify-es@^3.1.9:
   version "3.3.9"
